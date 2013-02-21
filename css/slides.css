@@ -1,0 +1,10 @@
+.logos {
+    width: 200px;
+    margin-left: 20px;  
+    margin-bottom: 40px;
+    display: inline-block;    
+}
+.logos a img {
+    border: none;
+    background: none;
+}
